@@ -1,0 +1,82 @@
+{
+  "project_info": {
+    "project_number": "284777471929",
+    "project_id": "nippon-dost-painter",
+    "storage_bucket": "nippon-dost-painter.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:284777471929:android:776afe5d5c0c8192302068",
+        "android_client_info": {
+          "package_name": "cat.nippon.dost"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "284777471929-hukfl8q5g8b053gur8eogovu0eugo0an.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD6CignUB74fZZyS0a58UoCTS0q4nm4vDs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "284777471929-hukfl8q5g8b053gur8eogovu0eugo0an.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "284777471929-tss2vpmucghdtcsqq1kdpekshouqv3m3.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "cat.nippon.dost.nipponDost"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:284777471929:android:3a7b7089766ec90f302068",
+        "android_client_info": {
+          "package_name": "cat.nippon.dost.nipponDost"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "284777471929-hukfl8q5g8b053gur8eogovu0eugo0an.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD6CignUB74fZZyS0a58UoCTS0q4nm4vDs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "284777471929-hukfl8q5g8b053gur8eogovu0eugo0an.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "284777471929-tss2vpmucghdtcsqq1kdpekshouqv3m3.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "cat.nippon.dost.nipponDost"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
